@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\bin\Debug\net7.0\holaproyecto.exe
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\bin\Debug\net7.0\holaproyecto.deps.json
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\bin\Debug\net7.0\holaproyecto.runtimeconfig.json
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\bin\Debug\net7.0\holaproyecto.dll
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\bin\Debug\net7.0\holaproyecto.pdb
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\obj\Debug\net7.0\holaproyecto.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\obj\Debug\net7.0\holaproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\obj\Debug\net7.0\holaproyecto.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\obj\Debug\net7.0\holaproyecto.AssemblyInfo.cs
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\obj\Debug\net7.0\holaproyecto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\obj\Debug\net7.0\holaproyecto.dll
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\obj\Debug\net7.0\refint\holaproyecto.dll
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\obj\Debug\net7.0\holaproyecto.pdb
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\obj\Debug\net7.0\holaproyecto.genruntimeconfig.cache
+C:\Users\PC\Desktop\carlos\c#\holaproyecto\obj\Debug\net7.0\ref\holaproyecto.dll
